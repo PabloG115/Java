@@ -1,4 +1,4 @@
-import java.util.*;
+﻿import java.util.*;
 import java.io.*;
 import java.text.*;
  
@@ -23,6 +23,7 @@ public class E03_Edad {
     }
 
     public static boolean esMayorEdad(Date nac) {
+		//Fecha Nac
 		return edad(nac)>=18;
 	}
 
