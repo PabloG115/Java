@@ -23,7 +23,7 @@ public class E03_Edad {
     }
 
     public static boolean esMayorEdad(Date nac) {
-		//Fecha Nac
+		//Fecha Nacimiento
 		return edad(nac)>=18;
 	}
 
