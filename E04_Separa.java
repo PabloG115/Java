@@ -16,7 +16,7 @@ public class E04_Separa {
 	      FileInputStream fitxer=null;
 	      FileOutputStream file2=null;
 	      FileOutputStream file4=null;
-	       
+	       //Añadiendo un comentario
 	      try{
 	       
 	          fitxer = new FileInputStream(filename);
