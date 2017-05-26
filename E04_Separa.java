@@ -15,8 +15,9 @@ public class E04_Separa {
 		String file3="Senars.dat";
 	      FileInputStream fitxer=null;
 	      FileOutputStream file2=null;
-	      FileOutputStream file4=null;
-	       //Eliminando un comentario
+	      FileOutputStream f
+	      
+          //Añadiendo un comentario
 	      try{
 	       
 	          fitxer = new FileInputStream(filename);
